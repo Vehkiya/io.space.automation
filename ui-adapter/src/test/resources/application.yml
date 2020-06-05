@@ -1,0 +1,6 @@
+config:
+  ui:
+    browser:
+      name: firefox
+      driverLocation: "src\\main\\resources\\drivers\\geckodriver.exe"
+      args:
